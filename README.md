@@ -1,5 +1,6 @@
 # AI-Assisted-Toll-Plaza-Operations-Dashboard
 This project involves the design of a user interface and user experience (UI/UX) for an AI-Assisted Toll Plaza Operations Dashboard.
+Live Project Link - https://www.figma.com/design/0VVgcRSbcNTcabrBG7oL17/AI-Assisted-Toll-Plaza-Operations-Dashboard?node-id=1-2&t=S2O0nlJK36v1pniX-1
 
 This dashboard will be the central control and monitoring hub for toll plaza managers and operators, leveraging Artificial Intelligence (AI) and Machine Learning (ML) to enhance efficiency, accuracy, and security across all tolling operations.
 
